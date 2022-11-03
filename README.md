@@ -10,10 +10,10 @@
 ## Screenshots
 
 **Task 1:**
-![App Screenshot](https://github.com/singhtirupati/CSS-Practice/blob/main/css-task1.jpg)
+![App Screenshot](https://github.com/singhtirupati/CSS-Practice/blob/main/images/css-task1.jpg)
 
 **Task 2:**
-![App Screenshot](https://github.com/singhtirupati/CSS-Practice/blob/main/css-task2.jpg)
+![App Screenshot](https://github.com/singhtirupati/CSS-Practice/blob/main/images/css-task2.jpg)
 
 **Task 3:**
-![App Screenshot](https://github.com/singhtirupati/CSS-Practice/blob/main/css-task3.jpg)
+![App Screenshot](https://github.com/singhtirupati/CSS-Practice/blob/main/images/css-task3.jpg)
